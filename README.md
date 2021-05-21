@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EvilMadSquirrel
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested now in mobile development
 - 🌱 I’m currently learning Flutter and Dart
 - 📫 How to reach me: Telegram @hef_falump
