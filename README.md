@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
-- 👀 I’m interested now in mobile development
-- 🌱 I’m currently learning Flutter and Dart
+- 👀 I’m interested now in Data Science and Machine Learning
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Telegram @hef_falump
 
 <!---
