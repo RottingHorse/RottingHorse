@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
-- 👀 I’m interested now in Data Science and Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested now in Mobile development
+- 🌱 I’m currently learning kotlin
 - 📫 How to reach me: Telegram @hef_falump
 
 <!---
