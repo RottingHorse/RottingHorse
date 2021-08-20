@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested now in Mobile development
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: Telegram @hef_falump
 
 <!---
