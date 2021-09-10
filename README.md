@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
-- 👀 I’m interested now in Mobile development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested now in Go
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: Telegram @hef_falump
 - I deleted all repositories because there was nothing that was not ashamed to show to other people :)
 - hopefully new ones will appear soon
