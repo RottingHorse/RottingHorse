@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey
-- 👀 I’m interested now in Go
-- 🌱 I’m currently learning Go
+- 👀 I’m interested now in development
+- 🌱 I’m currently learning Go, Python and some Kotlin :)
 - 📫 How to reach me: Telegram @hef_falump
 - I deleted all repositories because there was nothing that was not ashamed to show to other people :)
 - hopefully new ones will appear soon
