@@ -4,6 +4,7 @@
 - 📫 How to reach me: Telegram @hef_falump
 - I deleted all repositories because there was nothing that was not ashamed to show to other people :)
 - hopefully new ones will appear soon
+- https://www.linkedin.com/in/madsquirrel/
 
 <!---
 EvilMadSquirrel/EvilMadSquirrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
