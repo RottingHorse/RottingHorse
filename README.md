@@ -5,8 +5,7 @@
 - 😎 LinkedIn: https://www.linkedin.com/in/madsquirrel/
 - 🌶 Twitter: @Iratus_Sciurus
 - 🔥 Буду рад приглашениям на стажировки :)
-
-
+*** 
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested now in development
 - 🌱 I’m currently learning Python
