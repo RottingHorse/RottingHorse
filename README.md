@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested now in development
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Telegram @hef_falump
-- 😎 https://www.linkedin.com/in/madsquirrel/
+- 📫 How to reach me: Telegram https://t.me/hef_falump
+- 😎 LinkedIn: https://www.linkedin.com/in/madsquirrel/
+- 🌶 Twitter: @Iratus_Sciurus
 - 🔥 I would be glad to receive invitations to internships
+
 
 <!---
 EvilMadSquirrel/EvilMadSquirrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
