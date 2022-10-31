@@ -1,13 +1,11 @@
 - 👋 Привет, я Сергей
 - 👀 Активно интересуюсь разработкой
-- 🌱 В настоящее время изучаю Python 
-- 🔥 Ищу работу Python-разработчиком
+- 🌱 В настоящее время изучаю Rust 
 
 *** 
 - 👋 Hi, I’m Sergey
 - 👀 I’m interested now in development
-- 🌱 I’m currently learning Python
-- 🔥 Looking for a job as a Python developer
+- 🌱 I’m currently learning Rust
 
 ***
 - 📫 [Telegram](https://t.me/hef_falump)
